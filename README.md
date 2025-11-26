@@ -2,6 +2,14 @@
 
 This guide will help you set up and run the Simply Explained collaborative whiteboard application, which consists of a React frontend, Node.js backend, and Keycloak authentication.
 
+## Screenshots
+
+### Home Page
+![Home Page](home-page.png)
+
+### Whiteboard Session
+![Whiteboard Session](whiteboard-session.png)
+
 ## Project Structure
 
 ```
